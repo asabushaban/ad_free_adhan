@@ -1,4 +1,4 @@
-Building an Ad Free Adhan exoerience
+Building an Ad Free Adhan experience
 
 To Run:
 
